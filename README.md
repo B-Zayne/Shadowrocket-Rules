@@ -8,10 +8,6 @@ An optimized, clean, and reliable Shadowrocket configuration file designed for s
 
 ### Subscription Links
 
-* **CDN Accelerated (Fastest & Most Reliable):**
-  ```text
-  [https://fastly.jsdelivr.net/gh/B-Zayne/Shadowrocket-Rules/refs/heads/main/Shadowrocket_rules.conf
-  ```
 * **GitHub Raw (Backup):**
   ```text
   https://raw.githubusercontent.com/B-Zayne/Shadowrocket-Rules/refs/heads/main/Shadowrocket_rules.conf
